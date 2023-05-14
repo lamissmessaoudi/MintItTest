@@ -37,11 +37,11 @@ In this application , we have three screens:
 
 - Fonts
 - PNG Images
-- SVG
+- SVG Images
 
 ## Models
 
-- Player
+- Pilot
 - User
 
 ## Versions
@@ -51,5 +51,5 @@ In this application , we have three screens:
 
 ## login
 
-the First and last name should contain at least one letter and no numbers or special charachters.
+The firstname and lastname should contain at least one letter and no numbers or special characters.
 
